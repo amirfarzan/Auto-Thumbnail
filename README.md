@@ -1,4 +1,4 @@
-# Auto-Thumbnail
+# Auto-Thumbnail (Windows Version)
 Welcome to Auto Thumb:
 you can Auto Thumbnail your video files with this program
 <h3>move autothumb.py to the directory you wanted to autothumbnail files</h3>
