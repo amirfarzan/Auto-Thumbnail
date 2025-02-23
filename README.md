@@ -1,5 +1,5 @@
 # Auto-Thumbnail (Windows Version)
-Welcome to Auto Thumb: you can Auto Thumbnail your video files with this program<br>
+Welcome to Auto Thumb: you can Auto Thumbnail your video files using this program<br>
 <h2>download and install ffmpeg using <a href="https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z">This Link</a><h2>
   &emsp; add ffmpeg to windows path if you don't know how read <a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/">This</a><br>
 <h3>move autothumb.py to the directory you wanted to autothumbnail files</h3>
