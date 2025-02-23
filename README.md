@@ -16,6 +16,8 @@ options:<br>
   &emsp; autothumb.py  -name myvideo.mkv<br>
   &emsp; autothumb.py  -all mkv --force<br>
 <br>
+  Your donation, no matter the size, can change lives—be the reason someone gets a second chance today
+  <br>
   buy me a coffee:) BSC USDT 0x46ba88b1d176af5e213139f37d8e1fd787b18f11<br>
 <br>
 report bugs:&emsp;emirrorerr@gmail.com
