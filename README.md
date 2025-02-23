@@ -16,5 +16,5 @@ options:<br>
   &emsp; autothumb.py  -name myvideo.mkv<br>
   &emsp; autothumb.py  -all mkv --force<br>
 <br>
-  buy me a coffee: BSC USDT 0x46ba88b1d176af5e213139f37d8e1fd787b18f11<br>
+  buy me a coffee:) BSC USDT 0x46ba88b1d176af5e213139f37d8e1fd787b18f11<br>
 <br>
