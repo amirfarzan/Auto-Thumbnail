@@ -15,7 +15,5 @@ options:<br>
   &emsp; autothumb.py  -all mp4<br>
   &emsp; autothumb.py  -name myvideo.mkv<br>
   &emsp; autothumb.py  -all mkv --force<br>
-<br>
-  Your donation, no matter the size, can change lives—be the reason someone gets a second chance today
-  
+<br>  
 report bugs:&emsp;emirrorerr@gmail.com
